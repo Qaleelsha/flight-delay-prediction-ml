@@ -5,8 +5,8 @@ Flight delays cause major disruptions for airlines and passengers, leading to op
 This project builds a **production-ready machine learning system** to predict whether a flight will be delayed by **15 minutes or more**, using real-world flight data.
 
 The project covers the **complete ML lifecycle** — from data analysis and feature engineering to model deployment as a live web application.
----
-Live app: https://flight-delay-prediction-ml.streamlit.app/
+
+## Live app: https://flight-delay-prediction-ml.streamlit.app/
 ---
 
 ## 🎯 Problem Statement
